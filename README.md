@@ -1,6 +1,6 @@
 # PKCNet
 
-This is a project that includes code and a dataset for TFCNet.
+This is a project that includes code and a dataset for PKCNet.
 
 ## Dataset
 
